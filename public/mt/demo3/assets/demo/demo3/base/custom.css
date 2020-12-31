@@ -1,0 +1,12 @@
+
+.integration-status-container {
+    margin: 10px 0 0 0;
+}
+
+#jubelio-form .hide-display {
+    display: none;
+}
+
+#link-jubelio-success > span {
+    font-size: 10px;
+}
